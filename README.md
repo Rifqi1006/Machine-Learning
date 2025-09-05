@@ -1,6 +1,6 @@
 # 🧠 Machine-Learning
 
-Repository ini merupakan kumpulan studi kasus dan solusi dalam bidang **Pembelajaran Mesin (Machine Learning)**, yang berfokus pada pendokumentasian penerapan berbagai algoritma dan teknik pemodelan prediktif untuk menyelesaikan permasalahan bisnis dan industri yang kompleks.
+Repository ini merupakan kumpulan studi kasus dan solusi dalam bidang **Machine Learning**, yang berfokus pada pendokumentasian penerapan berbagai algoritma dan teknik pemodelan prediktif untuk menyelesaikan permasalahan bisnis dan industri yang kompleks.
 
 ---
 
@@ -35,7 +35,7 @@ Pendekatan umum dalam menyelesaikan setiap kasus adalah sebagai berikut:
 ---
 
 ## 📈 Cakupan Topik
-Repository ini bersifat dinamis dan akan terus diperbarui dengan studi kasus baru dari berbagai domain, seperti:
+Repository ini bersifat dinamis dan akan terus diperbarui dengan studi kasus baru dari berbagai domain.
 
 ---
 
